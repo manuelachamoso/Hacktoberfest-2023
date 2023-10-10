@@ -15,3 +15,8 @@ This year, if you manage to complete 4 high-quality pull requests, you have the 
 This year, the first 50,000 participants who successfully complete the challenge will have a tree planted in their name!
 
 You can find out more details about Hacktoberfest on their website, as well as track your progress throughout the month.
+
+## List
+### Zero to Mastery
+My first recommendation is [Zero to Mastery](https:github.com/zero-to-mastery). I participated last year, and I'm back again this year. They currently have [three projects for Hacktoberfest](https://github.com/zero-to-mastery/Hacktoberfest-2023). Please take a look at the link to contribute to one of them. I completed the [HTML and CSS project](https://github.com/manuelachamoso/Hacktoberfest-2023-projects/tree/main/spacecraft-animation), which is available in my repository.
+
