@@ -46,11 +46,11 @@ The mission of the [Development Projects Collections](https://github.com/Nikhil-
 [Reduced.to](https://github.com/origranot/reduced.to) is a modern web application that reduces the length of link URL. There are some bugs to be resolved.
 
 ## List of repositories banned from Hacktoberfest 2023.
-[App ideas](https://github.com/florinpop17/app-ideas)
-[DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023)
-[Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
-[Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-[Hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-[Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-[Hacktoberfest2023-Excluded](https://github.com/AkankshaAI/Hacktoberfest2023-Excluded)
-[Algo-Snippets-Hacktoberfest](https://github.com/mukundtheamateur/Algo-Snippets-Hacktoberfest)
+- [App ideas](https://github.com/florinpop17/app-ideas)
+- [DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023)
+- [Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest)
+- [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
+- [Hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+- [Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+- [Hacktoberfest2023-Excluded](https://github.com/AkankshaAI/Hacktoberfest2023-Excluded)
+- [Algo-Snippets-Hacktoberfest](https://github.com/mukundtheamateur/Algo-Snippets-Hacktoberfest)
