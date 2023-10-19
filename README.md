@@ -51,4 +51,4 @@ The mission of the [Development Projects Collections](https://github.com/Nikhil-
 - [Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [Hacktoberfest2023-Excluded](https://github.com/AkankshaAI/Hacktoberfest2023-Excluded)
 - [Algo-Snippets-Hacktoberfest](https://github.com/mukundtheamateur/Algo-Snippets-Hacktoberfest)
-- Javascript Mini Projects](https://github.com/thinkswell/javascript-mini-projects) was excluded.
+- [Javascript Mini Projects](https://github.com/thinkswell/javascript-mini-projects) was excluded.
