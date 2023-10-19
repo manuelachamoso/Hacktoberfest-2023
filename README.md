@@ -36,9 +36,6 @@ The [FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) repository is 
 ### JavaScript30
 The [JavaScript30](https://github.com/wesbos/JavaScript30) repository is a collection of starter files and completed solutions for the JavaScript 30 Day Challenge. 
 
-### Javascript Mini Projects
-[Javascript Mini Projects](https://github.com/thinkswell/javascript-mini-projects) is a collection of projects that exemplify the diverse capabilities of JavaScript. Whether you're a beginner just embarking on your coding journey or an experienced developer, there's something here for everyone. 
-
 ### Development Projects Collections
 The mission of the [Development Projects Collections](https://github.com/Nikhil-2002/development_Hactoberfest23) is to empower code beginners on their journey to becoming open-source contributors. The initiative acknowledges that the first pull request can be a daunting step, but it aims to transform it into an exciting and successful experience.
 
@@ -54,3 +51,4 @@ The mission of the [Development Projects Collections](https://github.com/Nikhil-
 - [Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
 - [Hacktoberfest2023-Excluded](https://github.com/AkankshaAI/Hacktoberfest2023-Excluded)
 - [Algo-Snippets-Hacktoberfest](https://github.com/mukundtheamateur/Algo-Snippets-Hacktoberfest)
+- Javascript Mini Projects](https://github.com/thinkswell/javascript-mini-projects) was excluded.
